@@ -7,6 +7,7 @@
 /* Part 1: Web Page Layout: Free to modify, except for a few of them which are required by pdf2htmlEX.js, see the comments */
 #sidebar { /* Sidebar */
   position:absolute;
+  display: none;
   top:0;
   left:0;
   bottom:0;
